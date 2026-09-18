@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sarim%20Zia&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58" alt="Sarim Zia banner" />
+<img src="./banner.svg" alt="Sarim Zia - Full Stack Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=I+build+AI-powered+web+%26+mobile+apps;React+%7C+Next.js+%7C+Node.js+%7C+Flutter+%7C+Python;From+concept+to+deployment" alt="Typing SVG" />
@@ -96,6 +96,5 @@ Hi, I'm **Sarim**, a full-stack developer from Karachi, Pakistan. I love turning
 <a href="https://www.linkedin.com/in/sarim-zia-720437181"><img src="https://img.shields.io/badge/LinkedIn-sarim--zia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sarimzia5@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarimzia5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%" />
 
 </div>
