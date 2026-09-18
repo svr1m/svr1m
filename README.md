@@ -18,10 +18,9 @@
 
 ## 👋 About Me
 
-Hi, I'm **Sarim**, a full-stack developer from Karachi, Pakistan. I love turning ideas into production-ready products, from REST APIs and dashboards to AI-driven apps that people actually use.
+Hi, I'm **Sarim**, a full-stack developer from Karachi, Pakistan. I love turning ideas into production-ready products.
 
 - 🔭 Building AI-powered web and mobile apps with React, Next.js, Node.js and Flutter
-- 🌱 Currently exploring DevOps, SRE and applied AI / ML
 - 🏆 Top 10 finalist at Techathon '24
 - ⚡ Quick learner with a concept-to-deployment mindset
 
