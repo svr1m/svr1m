@@ -20,6 +20,7 @@
 
 Hi, I'm **Sarim**, a full-stack developer from Karachi, Pakistan. I love turning ideas into production-ready products.
 
+Portfolio: https://sarimportfolio-ten.vercel.app/
 - 🔭 Building AI-powered web and mobile apps with React, Next.js, Node.js and Flutter
 - 🏆 Top 10 finalist at Techathon '24
 - ⚡ Quick learner with a concept-to-deployment mindset
