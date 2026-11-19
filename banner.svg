@@ -1,38 +1,173 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Sarim Zia - Full Stack Developer" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjYzcxNjI2ZC00MzU5LTQyODAtYWQ3Ni01NGUwNmUyNDMyY2QAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHkAb7e+zIsY1eGnGmSpeF8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyZTc0MTUxMS1kNzdjLTRhZmQtOTJjMi1hYTdiZDJlMTc4MDhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNopSJNcSMSDiYfkGXRuf+fAgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggwvbjwbUv0wWReD9BuEpe4SlCv2VDDMdoHhqFww1T7QOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPpnzTXxppKAdgBoceAGKCwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDwaEXMOsUyNOI0kMUdNmrqP4MOvmnEH6lDuHcWwd76yGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjRZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNjNzE2MjZkLTQzNTktNDI4MC1hZDc2LTU0ZTA2ZTI0MzJjZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdkZTdhMWE4LTVhOGYtNDY1Ny05MTE1LTY0ZjFiYWU1YzU2NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDC9uPBtS/TBZF4P0G4Sl7hKUK/ZUMMx2geGoXDDVPtA6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggVlv0yvD6MsBkkIWXq4mDb0RJjNJH7+IZd1LM+MFjaZGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg29MUDgGQtQU61dUx+tMdFAd3PqdP7EQfz66dnl27dPp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGE/5CN9ALrs9/18QvRTeJaK7ALhcu0uEb7aGkQmeSA0H+r8VqbUbTP8zNrvunZAJUu18NQgoi4tFXFLgBE/JkU=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title description">
+  <title id="title">Sarim Zia</title>
+  <desc id="description">Full Stack Developer and AI &amp; ML Enthusiast. An animated orbital illustration on a midnight blue background.</desc>
+
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1e1b4b"/>
-      <stop offset="50%" stop-color="#4c1d95"/>
-      <stop offset="100%" stop-color="#0e7490"/>
+    <clipPath id="frame"><rect width="1000" height="220" rx="18"/></clipPath>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0c172a"/>
+      <stop offset=".55" stop-color="#080e1d"/>
+      <stop offset="1" stop-color="#14152e"/>
     </linearGradient>
-    <clipPath id="round"><rect width="1000" height="220" rx="16"/></clipPath>
+    <radialGradient id="halo" cx=".81" cy=".49" r=".52" gradientTransform="translate(0 .08) scale(1 .84)">
+      <stop stop-color="#3748a2" stop-opacity=".65"/>
+      <stop offset=".48" stop-color="#253879" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#141b43" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gridInk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset=".38" stop-color="#a8bfff" stop-opacity="0"/>
+      <stop offset=".81" stop-color="#a8bfff" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#a8bfff" stop-opacity=".04"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M0 32V0H32" fill="none" stroke="#fff" stroke-width="1"/>
+    </pattern>
+    <mask id="gridMask"><rect width="1000" height="220" fill="url(#grid)"/></mask>
+    <linearGradient id="orbitalInk" gradientUnits="userSpaceOnUse" x1="669" y1="47" x2="923" y2="174">
+      <stop stop-color="#9fe9ff"/>
+      <stop offset=".46" stop-color="#7eb3ff"/>
+      <stop offset="1" stop-color="#bf8bff"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop stop-color="#8ff2ff"/>
+      <stop offset="1" stop-color="#a898ff"/>
+    </linearGradient>
+    <linearGradient id="lettering" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#caddff"/>
+    </linearGradient>
+    <radialGradient id="flare">
+      <stop stop-color="#9ee5ff" stop-opacity=".58"/>
+      <stop offset="1" stop-color="#9ee5ff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .signal { stroke-dashoffset: var(--start); animation: circuit 14s linear infinite; }
+      .pulse { animation: breathe 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes circuit { to { stroke-dashoffset: calc(var(--start) - 600); } }
+      @keyframes breathe { 50% { opacity: .55; transform: scale(.82); } }
+      @media (prefers-reduced-motion: reduce) { .signal, .pulse { animation: none; } }
+    </style>
   </defs>
 
-  <g clip-path="url(#round)">
-    <rect width="1000" height="220" fill="url(#bg)"/>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="220" fill="url(#background)"/>
+    <rect width="1000" height="220" fill="url(#halo)"/>
+    <rect width="1000" height="220" fill="url(#gridInk)" mask="url(#gridMask)"/>
 
-    <!-- soft animated waves -->
-    <path fill="#ffffff" fill-opacity="0.06"
-          d="M0 170 Q 125 130 250 170 T 500 170 T 750 170 T 1000 170 T 1250 170 T 1500 170 V 220 H 0 Z">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="12s" repeatCount="indefinite"/>
-    </path>
-    <path fill="#ffffff" fill-opacity="0.10"
-          d="M0 185 Q 125 155 250 185 T 500 185 T 750 185 T 1000 185 T 1250 185 T 1500 185 V 220 H 0 Z">
-      <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/>
-    </path>
+    <g aria-hidden="true">
+      <g fill="#c9e1ff">
+        <circle cx="560.0" cy="13.0" r="1.05" opacity="0.19"/>
+        <circle cx="733.6" cy="110.3" r="0.55" opacity="0.27"/>
+        <circle cx="907.2" cy="207.7" r="0.55" opacity="0.34"/>
+        <circle cx="661.8" cy="110.0" r="0.55" opacity="0.42"/>
+        <circle cx="835.4" cy="207.3" r="0.55" opacity="0.50"/>
+        <circle cx="590.1" cy="109.6" r="0.55" opacity="0.57"/>
+        <circle cx="763.7" cy="207.0" r="0.55" opacity="0.65"/>
+        <circle cx="937.3" cy="109.3" r="0.55" opacity="0.19"/>
+        <circle cx="691.9" cy="206.6" r="0.55" opacity="0.27"/>
+        <circle cx="865.5" cy="109.0" r="1.05" opacity="0.34"/>
+        <circle cx="620.1" cy="206.3" r="0.55" opacity="0.42"/>
+        <circle cx="793.7" cy="108.6" r="0.55" opacity="0.50"/>
+        <circle cx="967.3" cy="206.0" r="0.55" opacity="0.57"/>
+        <circle cx="721.9" cy="108.3" r="0.55" opacity="0.65"/>
+        <circle cx="895.5" cy="205.6" r="0.55" opacity="0.19"/>
+        <circle cx="650.2" cy="108.0" r="0.55" opacity="0.27"/>
+        <circle cx="823.8" cy="205.3" r="0.55" opacity="0.34"/>
+        <circle cx="578.4" cy="107.6" r="0.55" opacity="0.42"/>
+        <circle cx="752.0" cy="204.9" r="1.05" opacity="0.50"/>
+        <circle cx="925.6" cy="107.3" r="0.55" opacity="0.57"/>
+        <circle cx="680.2" cy="204.6" r="0.55" opacity="0.65"/>
+        <circle cx="853.8" cy="106.9" r="0.55" opacity="0.19"/>
+        <circle cx="608.4" cy="204.3" r="0.55" opacity="0.27"/>
+        <circle cx="782.0" cy="106.6" r="0.55" opacity="0.34"/>
+        <circle cx="955.6" cy="203.9" r="0.55" opacity="0.42"/>
+        <circle cx="710.3" cy="106.3" r="0.55" opacity="0.50"/>
+        <circle cx="883.9" cy="203.6" r="0.55" opacity="0.57"/>
+        <circle cx="638.5" cy="105.9" r="1.05" opacity="0.65"/>
+        <circle cx="812.1" cy="203.2" r="0.55" opacity="0.19"/>
+        <circle cx="566.7" cy="105.6" r="0.55" opacity="0.27"/>
+        <circle cx="740.3" cy="202.9" r="0.55" opacity="0.34"/>
+        <circle cx="913.9" cy="105.2" r="0.55" opacity="0.42"/>
+        <circle cx="668.5" cy="202.6" r="0.55" opacity="0.50"/>
+        <circle cx="842.1" cy="104.9" r="0.55" opacity="0.57"/>
+        <circle cx="596.7" cy="202.2" r="0.55" opacity="0.65"/>
+        <circle cx="770.4" cy="104.5" r="0.55" opacity="0.19"/>
+        <circle cx="944.0" cy="201.9" r="1.05" opacity="0.27"/>
+        <circle cx="698.6" cy="104.2" r="0.55" opacity="0.34"/>
+        <circle cx="872.2" cy="201.5" r="0.55" opacity="0.42"/>
+        <circle cx="626.8" cy="103.9" r="0.55" opacity="0.50"/>
+        <circle cx="800.4" cy="201.2" r="0.55" opacity="0.57"/>
+        <circle cx="974.0" cy="103.5" r="0.55" opacity="0.65"/>
+        <circle cx="728.6" cy="200.9" r="0.55" opacity="0.19"/>
+        <circle cx="902.2" cy="103.2" r="0.55" opacity="0.27"/>
+        <circle cx="656.8" cy="200.5" r="0.55" opacity="0.34"/>
+        <circle cx="830.5" cy="102.9" r="1.05" opacity="0.42"/>
+        <circle cx="585.1" cy="200.2" r="0.55" opacity="0.50"/>
+        <circle cx="758.7" cy="102.5" r="0.55" opacity="0.57"/>
+        <circle cx="932.3" cy="199.8" r="0.55" opacity="0.65"/>
+        <circle cx="686.9" cy="102.2" r="0.55" opacity="0.19"/>
+        <circle cx="860.5" cy="199.5" r="0.55" opacity="0.27"/>
+        <circle cx="615.1" cy="101.8" r="0.55" opacity="0.34"/>
+      </g>
 
-    <!-- name -->
-    <text x="500" y="98" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-          font-size="64" font-weight="700" fill="#ffffff">
-      Sarim Zia
-      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
-    </text>
+      <path d="M594 162C648 110 846 16 975 52M634 188C714 188 910 122 971 67" fill="none" stroke="#adc7ff" stroke-opacity=".22" stroke-dasharray="1 6" stroke-linecap="round"/>
+      <ellipse cx="802" cy="111" rx="190" ry="47" transform="rotate(-20 802 111)" fill="none" stroke="#91baff" stroke-opacity=".27"/>
 
-    <!-- subtitle -->
-    <text x="500" y="145" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-          font-size="22" fill="#67e8f9" letter-spacing="2">
-      FULL STACK DEVELOPER  |  AI &amp; ML ENTHUSIAST
-      <animate attributeName="opacity" from="0" to="1" dur="1.8s" fill="freeze"/>
-    </text>
+      <g fill="none" stroke="url(#orbitalInk)" stroke-width=".9">
+        <ellipse cx="811.0" cy="111.0" rx="135.0" ry="46.0" transform="rotate(-78.0 802 111)" opacity="0.26"/>
+        <ellipse cx="810.8" cy="112.3" rx="137.1" ry="45.8" transform="rotate(-71.8 802 111)" opacity="0.28"/>
+        <ellipse cx="810.2" cy="113.5" rx="139.2" ry="45.1" transform="rotate(-65.6 802 111)" opacity="0.31"/>
+        <ellipse cx="809.2" cy="114.6" rx="141.1" ry="44.0" transform="rotate(-59.4 802 111)" opacity="0.33"/>
+        <ellipse cx="807.8" cy="115.6" rx="142.6" ry="42.5" transform="rotate(-53.2 802 111)" opacity="0.35"/>
+        <ellipse cx="806.2" cy="116.3" rx="143.8" ry="40.7" transform="rotate(-47.0 802 111)" opacity="0.37"/>
+        <ellipse cx="804.4" cy="116.8" rx="144.6" ry="38.7" transform="rotate(-40.8 802 111)" opacity="0.39"/>
+        <ellipse cx="802.5" cy="117.0" rx="145.0" ry="36.5" transform="rotate(-34.6 802 111)" opacity="0.41"/>
+        <ellipse cx="800.5" cy="116.9" rx="144.9" ry="34.4" transform="rotate(-28.3 802 111)" opacity="0.43"/>
+        <ellipse cx="798.7" cy="116.6" rx="144.3" ry="32.3" transform="rotate(-22.1 802 111)" opacity="0.44"/>
+        <ellipse cx="796.9" cy="116.0" rx="143.3" ry="30.4" transform="rotate(-15.9 802 111)" opacity="0.45"/>
+        <ellipse cx="795.5" cy="115.1" rx="141.9" ry="28.7" transform="rotate(-9.7 802 111)" opacity="0.46"/>
+        <ellipse cx="794.3" cy="114.1" rx="140.2" ry="27.4" transform="rotate(-3.5 802 111)" opacity="0.47"/>
+        <ellipse cx="793.5" cy="112.9" rx="138.2" ry="26.5" transform="rotate(2.7 802 111)" opacity="0.48"/>
+        <ellipse cx="793.1" cy="111.6" rx="136.1" ry="26.1" transform="rotate(8.9 802 111)" opacity="0.48"/>
+        <ellipse cx="793.1" cy="110.4" rx="133.9" ry="26.1" transform="rotate(15.1 802 111)" opacity="0.48"/>
+        <ellipse cx="793.5" cy="109.1" rx="131.8" ry="26.5" transform="rotate(21.3 802 111)" opacity="0.48"/>
+        <ellipse cx="794.3" cy="107.9" rx="129.8" ry="27.4" transform="rotate(27.5 802 111)" opacity="0.47"/>
+        <ellipse cx="795.5" cy="106.9" rx="128.1" ry="28.7" transform="rotate(33.7 802 111)" opacity="0.46"/>
+        <ellipse cx="796.9" cy="106.0" rx="126.7" ry="30.4" transform="rotate(39.9 802 111)" opacity="0.45"/>
+        <ellipse cx="798.7" cy="105.4" rx="125.7" ry="32.3" transform="rotate(46.1 802 111)" opacity="0.44"/>
+        <ellipse cx="800.5" cy="105.1" rx="125.1" ry="34.4" transform="rotate(52.3 802 111)" opacity="0.43"/>
+        <ellipse cx="802.5" cy="105.0" rx="125.0" ry="36.5" transform="rotate(58.6 802 111)" opacity="0.41"/>
+        <ellipse cx="804.4" cy="105.2" rx="125.4" ry="38.7" transform="rotate(64.8 802 111)" opacity="0.39"/>
+        <ellipse cx="806.2" cy="105.7" rx="126.2" ry="40.7" transform="rotate(71.0 802 111)" opacity="0.37"/>
+        <ellipse cx="807.8" cy="106.4" rx="127.4" ry="42.5" transform="rotate(77.2 802 111)" opacity="0.35"/>
+        <ellipse cx="809.2" cy="107.4" rx="128.9" ry="44.0" transform="rotate(83.4 802 111)" opacity="0.33"/>
+        <ellipse cx="810.2" cy="108.5" rx="130.8" ry="45.1" transform="rotate(89.6 802 111)" opacity="0.31"/>
+        <ellipse cx="810.8" cy="109.7" rx="132.9" ry="45.8" transform="rotate(95.8 802 111)" opacity="0.28"/>
+      </g>
+
+      <g transform="rotate(-20 802 111)" fill="none" stroke-linecap="round">
+        <ellipse cx="802" cy="111" rx="176" ry="38" stroke="url(#orbitalInk)" stroke-opacity=".46"/>
+        <ellipse class="signal" cx="802" cy="111" rx="176" ry="38" pathLength="600" stroke="#d7f4ff"
+                 stroke-width="1.8" stroke-dasharray="2 598" style="--start: -42" stroke-dashoffset="-42"/>
+        <ellipse class="signal" cx="802" cy="111" rx="176" ry="38" pathLength="600" stroke="#b9aaff"
+                 stroke-width="1.2" stroke-dasharray="22 578" style="--start: -340" stroke-dashoffset="-340"/>
+      </g>
+
+      <g class="pulse">
+        <circle cx="802" cy="111" r="24" fill="url(#flare)"/>
+        <path d="M802 102Q803 110 812 111Q803 112 802 120Q801 112 792 111Q801 110 802 102Z" fill="#e0f5ff"/>
+      </g>
+      <circle cx="917" cy="54" r="11" fill="url(#flare)"/>
+      <circle cx="917" cy="54" r="2.1" fill="#c2eeff"/>
+      <path d="M665 174h8m-4-4v8M949 158h10m-5-5v10" fill="none" stroke="#a5c9ff" stroke-opacity=".65" stroke-width=".8"/>
+    </g>
+
+    <rect x="56" y="44" width="39" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="53" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="77" font-weight="700"
+          letter-spacing="-2.5" fill="url(#lettering)">Sarim Zia</text>
+    <text x="58" y="162" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+          font-size="13.5" font-weight="600" letter-spacing="1.6" fill="#d6e4fa">FULL STACK DEVELOPER<tspan dx="11" fill="#9cdcff">|</tspan><tspan dx="11" fill="#b7c4ff">AI &amp; ML ENTHUSIAST</tspan></text>
   </g>
+
+  <rect x=".5" y=".5" width="999" height="219" rx="17.5" fill="none" stroke="#b0c1ff" stroke-opacity=".24"/>
 </svg>
